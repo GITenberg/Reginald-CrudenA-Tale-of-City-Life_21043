@@ -1,0 +1,36 @@
+_repo: Reginald-CrudenA-Tale-of-City-Life_21043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: ''
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Finance, Personal -- Juvenile fiction'
+- !lcsh 'Money -- Juvenile fiction'
+- !lcsh 'Fraud -- Juvenile fiction'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'London (England) -- Juvenile fiction'
+- !lcsh 'Social classes -- England -- Juvenile fiction'
+- !lcsh 'Snobs and snobbishness -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Reginald Cruden
+
+  A Tale of City Life'
+url: http://www.gutenberg.org/ebooks/21043
